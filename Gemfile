@@ -17,6 +17,8 @@ gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'simple_form', '~> 3.5'
 
+gem 'devise', '~> 4.3'
+
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 
 gem 'uglifier', '>= 1.3.0'
